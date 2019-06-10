@@ -1883,7 +1883,7 @@ button.button {
 
 .nav-01__logo_img {
   vertical-align: middle;
-  max-height: 30px;
+  max-height: 100px;
   margin-right: 10px; }
 
 .nav-01__logo_text {
@@ -2074,7 +2074,7 @@ button.button {
 .header-01, .header-10, .header-11, .header-12 {
   z-index: 100;
   padding-top: 160px;
-  background-image: linear-gradient(0deg, #2B5BB1 0%, #163E85 100%);
+  /*background-image: linear-gradient(0deg, #2B5BB1 0%, #163E85 100%);*/
   text-align: center; }
 
 .header-12 {
@@ -2906,7 +2906,7 @@ button.button {
   bottom: 0;
   top: 0;
   margin: auto;
-  background-color: rgba(0, 0, 0, 0.75); }
+  background-color: rgba(0, 0, 0, 0.3); }
 
 .header-29__container {
   position: relative;
